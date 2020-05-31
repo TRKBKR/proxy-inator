@@ -1,4 +1,5 @@
 #!env python
+#Author : Tarik Bakir https://github.com/TRKBKR
 # Set these to control bind host and port for tcp server
 BIND_HOST, BIND_PORT = "", 11111
 
